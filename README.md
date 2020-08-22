@@ -7,7 +7,7 @@ A directory of the best and most popular open source tools. A work in progress.
 
 ## Front End
 
-   - css:
+   - css
        + [postcss](https://github.com/postcss/postcss) - [POPULAR] Transforming styles with JS plugins
        + [sass](https://github.com/sass/sass) - [POPULAR] Sass makes CSS fun!
        + [less.js](https://github.com/less/less.js) - [POPULAR] Less. The dynamic stylesheet language.
@@ -75,7 +75,7 @@ A directory of the best and most popular open source tools. A work in progress.
        + [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
        + [Sortable](https://github.com/SortableJS/Sortable) - a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices.
        + [acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
-       + [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
+       + [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier with Node.js support
        
 ## Back End
 
