@@ -9,7 +9,7 @@ A directory of the best and most popular open source tools. A work in progress.
 - Mobile
 
 ## Front End
-   - css: https://github.com/awesome-css-group/awesome-css#readme
+   - css:
        + [postcss](https://github.com/postcss/postcss) - [POPULAR] Transforming styles with JS plugins
        + [sass](https://github.com/sass/sass) - [POPULAR] Sass makes CSS fun!
        + [less.js](https://github.com/less/less.js) - [POPULAR] Less. The dynamic stylesheet language.
