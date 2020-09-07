@@ -4,10 +4,12 @@ A directory of the best and most popular open source tools. A work in progress.
 ## Contents
 - Front End
 - Back End
+- Design
+- Tools
+- Mobile
 
 ## Front End
-
-   - css
+   - css: https://github.com/awesome-css-group/awesome-css#readme
        + [postcss](https://github.com/postcss/postcss) - [POPULAR] Transforming styles with JS plugins
        + [sass](https://github.com/sass/sass) - [POPULAR] Sass makes CSS fun!
        + [less.js](https://github.com/less/less.js) - [POPULAR] Less. The dynamic stylesheet language.
@@ -43,9 +45,32 @@ A directory of the best and most popular open source tools. A work in progress.
        + [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
        + [react-spring](https://github.com/react-spring/react-spring) - A spring physics based React animation library
        + [react-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+   - vue
+       + [vue](https://github.com/vuejs/vue) - [POPULAR] A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+       + [nuxt](https://github.com/nuxt/nuxt.js) - [POPULAR] The Intuitive Vue Framework
+       + [vuepress](https://github.com/vuejs/vuepress) - [POPULAR] Minimalistic Vue-powered static site generator
+       + [vue-cli](https://github.com/vuejs/vue-cli) - Standard Tooling for Vue.js Development
+       + [vue-devtools](https://github.com/vuejs/vue-devtools) - Browser devtools extension for debugging Vue.js applications.
+       + [vue-router](https://github.com/vuejs/vue-router) - The official router for Vue.js.
+       + [vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
+       + [vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue
+       + [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - A magical vue admin
+       + [vue-material](https://github.com/vuematerial/vue-material) - Material design for Vue.js
+       + [vux](https://github.com/airyland/vux) - Mobile UI Components based on Vue & WeUI
+       + [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding
+       + [vue-resource](https://github.com/pagekit/vue-resource) - The HTTP client for Vue.js
+       + [gridsome](https://github.com/gridsome/gridsome) - The Jamstack framework for Vue.js
+       + [vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
+       + [tiptap](https://github.com/ueberdosis/tiptap) - A renderless rich-text editor for Vue.js
+       + [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+       + [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper component for @vuejs
+       + [d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
+       + [v-charts](https://github.com/ElemeFE/v-charts) - Chart components based on Vue2.x and Echarts
+       + [vue-apollo](https://github.com/vuejs/vue-apollo) - Apollo/GraphQL integration for VueJS
+       + [vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
    - js-frameworks
        + [meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-       + [ember.js](https://github.com/emberjs/ember.js/) - Ember.js - A JavaScript framework for creating ambitious web applications
+       + [ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
        + [electronc](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS
        + [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
        + [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -75,13 +100,40 @@ A directory of the best and most popular open source tools. A work in progress.
        + [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
        + [Sortable](https://github.com/SortableJS/Sortable) - a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices.
        + [acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
-       + [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier with Node.js support
+       + [html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
+   - angular
+       + [angular](https://github.com/angular/angular) - A development platform for building mobile and desktop web applications
+       + [angular.js](https://github.com/angular/angular.js) -  HTML enhanced for web apps
+       + [angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+       + [angular-starter](https://github.com/PatrickJS/angular-starter) - An Angular starter kit
+       + [angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps
+   - python
+       + [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications
+       + [django](https://github.com/django) - The Web framework for perfectionists with deadlines
+       + [scrapy](https://github.com/scrapy/scrapy) - a fast high-level web crawling & scraping framework for Python
+   - jquery
+       + [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+       + [jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library
+       + [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget for jQuery
+       + [select2](https://github.com/select2/select2) - A jQuery based replacement for select boxes
+       + [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+       + [jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
+   - java
+       + [spring-boot](https://github.com/spring-projects/spring-boot) - Create Spring-powered, production-grade applications and services
+       + [spring-framework](https://github.com/spring-projects/spring-framework) - Everything required beyond the Java programming language for creating enterprise applications
+       + [RxJava](https://github.com/ReactiveX/RxJava) - Reactive extensions for the JVM
+       + [guava](https://github.com/google/guava) - Google core libraries for Java
+   - websites
+       + [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+       + [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+       + [jekyll](https://github.com/jekyll/jekyll) - A blog-aware static site generator in Ruby
+       + [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js
+
        
 ## Back End
 
-## Tools
-
 ## Design
 
-## Mobile
+## Tools
 
+## Mobile
