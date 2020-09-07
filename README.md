@@ -13,7 +13,9 @@
     
 </div>
 
-__This repo is still a work in progress; you can browse the directory on [the website](https://postmake.io/open-source).__
+---
+
+__Note: This repo is still a work in progress, but you can browse the directory on [the website](https://postmake.io/open-source).__
 
 
 There are literally thousands of open source tools, frameworks, and products that you can use to make your development work easier. This can make it hard to find what you're searching for – you often have an idea of what you want to achieve, but you're not sure what to look for.
@@ -22,18 +24,15 @@ This repository is an attempt to make browsing and finding open source projects 
 
 This repository is manually mantained, and is still very much a work in progress. The goal here isn't to list every single open source project – that would be impractical – but rather to give you a starting point that can help you find what you're looking for. If you want to see something added, you're welcome to make a pull request.
 
----
-
-
 ## Contents
-- Front End
-- Back End
-- Design
-- Tools
-- Mobile
+- [Front End](#front-end)
+- [Back End](#back-end)
+- [Design](#design)
+- [Tools](#tools)
+- [Mobile](#mobile)
 
 ## Front End
-   - css:
+   - css
        + [postcss](https://github.com/postcss/postcss) - [POPULAR] Transforming styles with JS plugins
        + [sass](https://github.com/sass/sass) - [POPULAR] Sass makes CSS fun!
        + [less.js](https://github.com/less/less.js) - [POPULAR] Less. The dynamic stylesheet language.
