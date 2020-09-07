@@ -1,5 +1,29 @@
-# open-source-directory
-A directory of the best and most popular open source tools. A work in progress.
+<p align="center">
+    <img src="https://images.postmake.io/resources/assets/open-source-directory-logo.png" alt="Open Source Directory" height="160">
+    <br>
+    <br>
+    <i>A human-browsable directory of popular open source projects</i>
+</p>
+
+<div align="center">
+  
+  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fpostmake.io)](https://postmake.io/open-source)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
+  [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fpostmake.io%2Fopen-source)](https://twitter.com/todo_twitter_intent_url)
+    
+</div>
+
+__This repo is still a work in progress; you can browse the directory on [the website](https://postmake.io/open-source).__
+
+
+There are literally thousands of open source tools, frameworks, and products that you can use to make your development work easier. This can make it hard to find what you're searching for – you often have an idea of what you want to achieve, but you're not sure what to look for.
+
+This repository is an attempt to make browsing and finding open source projects a little easier. The contents of this repo is mirrored on [the website](https://postmake.io/open-source) in an easy to navigate layout. 
+
+This repository is manually mantained, and is still very much a work in progress. The goal here isn't to list every single open source project – that would be impractical – but rather to give you a starting point that can help you find what you're looking for. If you want to see something added, you're welcome to make a pull request.
+
+---
+
 
 ## Contents
 - Front End
@@ -131,9 +155,13 @@ A directory of the best and most popular open source tools. A work in progress.
 
        
 ## Back End
+`TODO add the repos!`
 
 ## Design
+`TODO add the repos!`
 
 ## Tools
+`TODO add the repos!`
 
 ## Mobile
+`TODO add the repos!`
