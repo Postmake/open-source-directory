@@ -228,7 +228,51 @@ This repository is manually mantained, and is still very much a work in progress
 `TODO add the repos!`
 
 ## Tools
-`TODO add the repos!`
+   - editors
+       + [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+       + [atom](https://github.com/atom/atom) - The hackable text editor
+       + [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+       + [code-server](https://github.com/cdr/code-server) - VS Code in the browser
+       + [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+       + [quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+       + [vim](https://github.com/vim/vim) - The official Vim repository
+   - services
+       + [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+       + [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications
+   - machine-learning
+       + [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
+       + [keras](https://github.com/keras-team/keras) - Deep Learning for humans
+       + [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+       + [scikit-learn](https://github.com/scikit-learn/scikit-learn) - machine learning in Python
+       + [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+       + [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+       + [transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+       + [caffe](https://github.com/BVLC/caffe) - a fast open framework for deep learning
+       + [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+       + [darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
+   - documentation
+       + [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+       + [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+       + [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+       + [swagger-ui](https://github.com/swagger-api/swagger-ui) - a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API
+   - command-line
+       + [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - an open source, community-driven framework for managing your zsh configuration
+       + [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place
+       + [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+       + [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
+       + [blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js
+   - headless
+       + [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+       + [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python
+       + [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
+   - tools
+       + [FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+       + [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+       + [gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+       + [clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 3kb gzipped
+   - automation
+       + [ansible](https://github.com/ansible/ansible) - a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain
+       + [core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first
 
 ## Mobile
 `TODO add the repos!`
