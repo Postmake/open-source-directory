@@ -154,7 +154,75 @@ This repository is manually mantained, and is still very much a work in progress
 
        
 ## Back End
-`TODO add the repos!`
+
+   - containers
+       + [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+       + [moby](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems
+       + [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+   - databases
+       + [mongo](https://github.com/mongodb/mongo) - The MongoDB Database
+       + [postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository
+       + [mysql-server](https://github.com/mysql/mysql-server) -  the world's most popular open source database
+       + [redis](https://github.com/redis/redis) - an in-memory database that persists on disk
+       + [sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
+       + [tidb](https://github.com/pingcap/tidb) - an open source distributed HTAP database compatible with the MySQL protocol
+       + [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+       + [MariaDB](https://github.com/MariaDB/server) - a community developed fork of MySQL server
+   - rails
+       + [rails](https://github.com/rails/rails) - Ruby on Rails
+       + [devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden
+       + [spree](https://github.com/spree/spree) - n open source E-commerce platform for Rails 6 
+       + [activeadmin](https://github.com/activeadmin/activeadmin - The administration framework for Ruby on Rails applications.
+       + [kaminari](https://github.com/kaminari/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
+       + [simple_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails. Tied to a simple DSL, with no opinion on markup.
+       + [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
+       + [react-rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
+       + [paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
+   - cms
+       + [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing
+       + [keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
+       + [strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs
+       + [netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+       + [grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS
+       + [october](https://github.com/octobercms/october) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework
+       + [wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
+       + [django-cms](https://github.com/divio/django-cms) - The easy-to-use and developer-friendly CMS
+       + [directus](https://github.com/directus/directus) - Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases
+   - serverless
+       + [serverless](https://github.com/serverless/serverless) - Build web, mobile and IoT applications with serverless architectures 
+       + [kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway
+       + [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+       + [openfaas](https://github.com/openfaas/faas) - Serverless Functions Made Simple
+       + [Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
+       + [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing
+       + [kubeless](https://github.com/kubeless/kubeless) - Kubernetes Native Serverless Framework
+       + [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS
+   - rest-api
+       + [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine
+       + [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+       + [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+       + [Faker.js](https://github.com/marak/Faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
+       + [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+   - node
+       + [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+       + [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+       + [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications
+       + [hapi](https://github.com/hapijs/hapi) - The Simple, Secure Framework Developers Trust
+       + [node-restify](https://github.com/restify/node-restify) - The future of Node.js REST development
+   - monitoring
+       + [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right
+       + [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+       + [prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+       + [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf. Your agents are standing by!
+       + [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+       + [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+       + [cube.js](https://github.com/cube-js/cube.js) - Open Source Analytics Framework
+   - http-client
+       + [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+       + [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ Modern, user-friendly command-line HTTP client for the API era. 
+       + [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+       + [request](https://github.com/request/request) - Simplified HTTP request client.
+
 
 ## Design
 `TODO add the repos!`
