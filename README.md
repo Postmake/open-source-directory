@@ -172,7 +172,7 @@ This repository is manually mantained, and is still very much a work in progress
        + [rails](https://github.com/rails/rails) - Ruby on Rails
        + [devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden
        + [spree](https://github.com/spree/spree) - n open source E-commerce platform for Rails 6 
-       + [activeadmin](https://github.com/activeadmin/activeadmin - The administration framework for Ruby on Rails applications.
+       + [activeadmin](https://github.com/activeadmin/activeadmin) - The administration framework for Ruby on Rails applications.
        + [kaminari](https://github.com/kaminari/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps
        + [simple_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails. Tied to a simple DSL, with no opinion on markup.
        + [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for setting up Ruby objects as test data.
@@ -227,6 +227,34 @@ This repository is manually mantained, and is still very much a work in progress
 ## Design
 `TODO add the repos!`
 
+   - icons
+       + font-awesome
+       + material-design-icons
+   - frameworks
+       + bootstrap
+       + ant-design
+       + material-ui
+       + element
+       + Semantic-UI
+       + bulma
+       + materialize
+   - tools
+       + storybook
+       + prettier
+       + pixi.js
+   - charts
+       + Chart.js
+       + incubator-echarts
+       + mermaid
+   - animations
+       + Animate.css
+       + three.js
+       + reveal.js
+       + anime
+       + impress.js
+   - admin
+       + AdminLTE
+
 ## Tools
    - editors
        + [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -276,3 +304,25 @@ This repository is manually mantained, and is still very much a work in progress
 
 ## Mobile
 `TODO add the repos!`
+    
+- ios
+    + swift
+    + Alamofire
+    + AFNetworking
+    + fastlane
+- android
+    + kotlin
+    + okhttp
+    + retrofit
+    + scrcpy
+    + MPAndroidChart
+    + glide
+    + lottie-android
+    + ijkplayer
+    + butterknife
+    + leakcanary
+- cross-platform
+    + flutter
+    + block
+    + ionic
+    + react-native
