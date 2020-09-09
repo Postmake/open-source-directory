@@ -132,7 +132,7 @@ This repository is manually mantained, and is still very much a work in progress
        + [angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps
    - python
        + [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications
-       + [django](https://github.com/django) - The Web framework for perfectionists with deadlines
+       + [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines
        + [scrapy](https://github.com/scrapy/scrapy) - a fast high-level web crawling & scraping framework for Python
    - jquery
        + [jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
@@ -147,7 +147,7 @@ This repository is manually mantained, and is still very much a work in progress
        + [RxJava](https://github.com/ReactiveX/RxJava) - Reactive extensions for the JVM
        + [guava](https://github.com/google/guava) - Google core libraries for Java
    - websites
-       + [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+       + [hugo](https://github.com/gohugoio/hugo) - The world's fastest framework for building websites.
        + [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
        + [jekyll](https://github.com/jekyll/jekyll) - A blog-aware static site generator in Ruby
        + [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js
