@@ -225,35 +225,39 @@ This repository is manually mantained, and is still very much a work in progress
 
 
 ## Design
-`TODO add the repos!`
 
-   - icons
-       + font-awesome
-       + material-design-icons
+  - icons
+       + [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+       + [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+       + [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+       + [ionicons](https://github.com/ionic-team/ionicons) - The premium icon pack for Ionic Framework and web apps everywhere
+       + [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+       + [eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons
+       + [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with <3 by GitHub
    - frameworks
-       + bootstrap
-       + ant-design
-       + material-ui
-       + element
-       + Semantic-UI
-       + bulma
-       + materialize
-   - tools
-       + storybook
-       + prettier
-       + pixi.js
+       + [bootstrap](https://github.com/twbs/bootstrap) - [POPULAR] The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web
+       + [bulma](https://github.com/jgthms/bulma) - [POPULAR] Modern CSS framework based on Flexbox
+       + [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - [POPULAR] A utility-first CSS framework for rapid UI development
+       + [ant-design](https://github.com/ant-design/ant-design) - A UI Design Language and React UI library
+       + [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development
+       + [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
+       + [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language
+   - design-tools
+       + [storybook](https://github.com/storybookjs/storybook) - The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more
+       + [prettier](https://github.com/prettier/prettier) - an opinionated code formatter
+       + [pixi.js](https://github.com/pixijs/pixi.js) - Create beautiful digital content with the fastest, most flexible 2D WebGL renderer
    - charts
-       + Chart.js
-       + incubator-echarts
-       + mermaid
+       + [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+       + [incubator-echarts](https://github.com/apache/incubator-echarts) - A powerful, interactive charting and visualization library for browser
+       + [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
    - animations
-       + Animate.css
-       + three.js
-       + reveal.js
-       + anime
-       + impress.js
+       + [animate.css](https://github.com/animate-css/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+       + [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library
+       + [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+       + [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+       + [impress.js](https://github.com/impress/impress.js) - a presentation framework based on the power of CSS3 transforms and transitions in modern browsers
    - admin
-       + AdminLTE
+       + [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4
 
 ## Tools
 
