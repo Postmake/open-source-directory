@@ -256,6 +256,7 @@ This repository is manually mantained, and is still very much a work in progress
        + AdminLTE
 
 ## Tools
+
    - editors
        + [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
        + [atom](https://github.com/atom/atom) - The hackable text editor
@@ -303,26 +304,28 @@ This repository is manually mantained, and is still very much a work in progress
        + [core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first
 
 ## Mobile
-`TODO add the repos!`
-    
-- ios
-    + swift
-    + Alamofire
-    + AFNetworking
-    + fastlane
-- android
-    + kotlin
-    + okhttp
-    + retrofit
-    + scrcpy
-    + MPAndroidChart
-    + glide
-    + lottie-android
-    + ijkplayer
-    + butterknife
-    + leakcanary
-- cross-platform
-    + flutter
-    + block
-    + ionic
-    + react-native
+
+   - ios
+       + [swift](https://github.com/apple/swift) - The Swift Programming Language
+       + [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+       + [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful networking framework for iOS, macOS, watchOS, and tvOS.
+       + [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps
+       + [lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
+       + [RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
+       + [Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
+   - android
+       + [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language
+       + [okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for Java and Kotlin
+       + [retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+       + [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+       + [fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps
+       + [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
+       + [glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling
+       + [lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
+       + [ijkplayer](https://github.com/bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support
+       + [butterknife](https://github.com/JakeWharton/butterknife) - Bind Android views and callbacks to fields and methods
+       + [leakcanary](https://github.com/square/leakcanary) - A memory leak detection library for Android
+   - cross-platform
+       + [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+       + [react-native](https://github.com/facebook/react-native) - A framework for building native apps with React
+       + [ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps
