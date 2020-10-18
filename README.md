@@ -269,6 +269,7 @@ This repository is manually mantained, and is still very much a work in progress
        + [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
        + [quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
        + [vim](https://github.com/vim/vim) - The official Vim repository
+       + [emacs](https://github.com/emacs-mirror/emacs) - Github mirror of the official emacs repository
    - services
        + [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
        + [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications
