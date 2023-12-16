@@ -108,6 +108,7 @@ This repository is manually mantained, and is still very much a work in progress
        + [TypeScript](https://github.com/microsoft/TypeScript) - [POPULAR] TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
        + [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
        + [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
+       + [Scribbler](https://github.com/gopi-suvanam/scribbler/) - Notebook tool for JavaScript experimentation (in the browser).
        + [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML.
        + [gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
        + [bower](https://github.com/bower/bower) - A package manager for the web
